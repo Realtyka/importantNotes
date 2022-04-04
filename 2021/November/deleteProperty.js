@@ -6,3 +6,6 @@ delete obj.class;
 
 console.log(obj);
 //{name:"Rishav",roll:5}
+
+ergergegegrergg
+Just for test
